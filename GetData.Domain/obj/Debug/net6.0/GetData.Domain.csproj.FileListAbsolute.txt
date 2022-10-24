@@ -1,0 +1,12 @@
+/home/anomcba/GetData/GetData.Domain/bin/Debug/net6.0/GetData.Domain.deps.json
+/home/anomcba/GetData/GetData.Domain/bin/Debug/net6.0/GetData.Domain.dll
+/home/anomcba/GetData/GetData.Domain/bin/Debug/net6.0/ref/GetData.Domain.dll
+/home/anomcba/GetData/GetData.Domain/bin/Debug/net6.0/GetData.Domain.pdb
+/home/anomcba/GetData/GetData.Domain/obj/Debug/net6.0/GetData.Domain.csproj.AssemblyReference.cache
+/home/anomcba/GetData/GetData.Domain/obj/Debug/net6.0/GetData.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/anomcba/GetData/GetData.Domain/obj/Debug/net6.0/GetData.Domain.AssemblyInfoInputs.cache
+/home/anomcba/GetData/GetData.Domain/obj/Debug/net6.0/GetData.Domain.AssemblyInfo.cs
+/home/anomcba/GetData/GetData.Domain/obj/Debug/net6.0/GetData.Domain.csproj.CoreCompileInputs.cache
+/home/anomcba/GetData/GetData.Domain/obj/Debug/net6.0/GetData.Domain.dll
+/home/anomcba/GetData/GetData.Domain/obj/Debug/net6.0/ref/GetData.Domain.dll
+/home/anomcba/GetData/GetData.Domain/obj/Debug/net6.0/GetData.Domain.pdb

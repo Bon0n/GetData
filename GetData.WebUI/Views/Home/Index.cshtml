@@ -1,0 +1,17 @@
+﻿@using GetData.Domain.Entities
+@{
+	var dataInfo = ViewData["DataInfo"] as DataInfo;
+	var ip = ViewData["Ip"]; 
+
+    ViewData["Title"] = "Home Page";
+	
+    var hostName = System.Net.Dns.GetHostName();
+}
+
+<div class="text-center">
+    <h1 class="display-4">Informações do Client</h1>
+    <p>@dataInfo.LocalIpv4</p>
+	<p>@dataInfo.PublicIpv4</p>
+    <p>@dataInfo.Hostname</p>
+    <p>@dataInfo.MacAddr</p>
+</div>

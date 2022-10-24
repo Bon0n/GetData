@@ -1,0 +1,3 @@
+/home/anomcba/GetData/GetData.Domain/bin/Debug/net6.0/publish/GetData.Domain.dll
+/home/anomcba/GetData/GetData.Domain/bin/Debug/net6.0/publish/GetData.Domain.deps.json
+/home/anomcba/GetData/GetData.Domain/bin/Debug/net6.0/publish/GetData.Domain.pdb

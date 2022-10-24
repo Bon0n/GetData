@@ -1,0 +1,3 @@
+/home/anomcba/GetData/out/GetData.Domain.dll
+/home/anomcba/GetData/out/GetData.Domain.deps.json
+/home/anomcba/GetData/out/GetData.Domain.pdb

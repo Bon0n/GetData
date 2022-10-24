@@ -1,0 +1,17 @@
+/home/anomcba/GetData/GetData.Infra.Data/bin/Debug/net6.0/GetData.Infra.Data.deps.json
+/home/anomcba/GetData/GetData.Infra.Data/bin/Debug/net6.0/GetData.Infra.Data.runtimeconfig.json
+/home/anomcba/GetData/GetData.Infra.Data/bin/Debug/net6.0/GetData.Infra.Data.dll
+/home/anomcba/GetData/GetData.Infra.Data/bin/Debug/net6.0/ref/GetData.Infra.Data.dll
+/home/anomcba/GetData/GetData.Infra.Data/bin/Debug/net6.0/GetData.Infra.Data.pdb
+/home/anomcba/GetData/GetData.Infra.Data/bin/Debug/net6.0/GetData.Domain.dll
+/home/anomcba/GetData/GetData.Infra.Data/bin/Debug/net6.0/GetData.Domain.pdb
+/home/anomcba/GetData/GetData.Infra.Data/obj/Debug/net6.0/GetData.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/anomcba/GetData/GetData.Infra.Data/obj/Debug/net6.0/GetData.Infra.Data.AssemblyInfoInputs.cache
+/home/anomcba/GetData/GetData.Infra.Data/obj/Debug/net6.0/GetData.Infra.Data.AssemblyInfo.cs
+/home/anomcba/GetData/GetData.Infra.Data/obj/Debug/net6.0/GetData.Infra.Data.csproj.CoreCompileInputs.cache
+/home/anomcba/GetData/GetData.Infra.Data/obj/Debug/net6.0/GetData.Infra.Data.csproj.CopyComplete
+/home/anomcba/GetData/GetData.Infra.Data/obj/Debug/net6.0/GetData.Infra.Data.dll
+/home/anomcba/GetData/GetData.Infra.Data/obj/Debug/net6.0/ref/GetData.Infra.Data.dll
+/home/anomcba/GetData/GetData.Infra.Data/obj/Debug/net6.0/GetData.Infra.Data.pdb
+/home/anomcba/GetData/GetData.Infra.Data/obj/Debug/net6.0/GetData.Infra.Data.genruntimeconfig.cache
+/home/anomcba/GetData/GetData.Infra.Data/obj/Debug/net6.0/GetData.Infra.Data.csproj.AssemblyReference.cache
